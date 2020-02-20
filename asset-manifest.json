@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Modern_React_with_Redux_Videos-Stephen-/static/css/main.b81adad2.chunk.css",
-    "main.js": "/Modern_React_with_Redux_Videos-Stephen-/static/js/main.9787d404.chunk.js",
-    "main.js.map": "/Modern_React_with_Redux_Videos-Stephen-/static/js/main.9787d404.chunk.js.map",
-    "runtime-main.js": "/Modern_React_with_Redux_Videos-Stephen-/static/js/runtime-main.f241c84b.js",
-    "runtime-main.js.map": "/Modern_React_with_Redux_Videos-Stephen-/static/js/runtime-main.f241c84b.js.map",
-    "static/js/2.0da6cb70.chunk.js": "/Modern_React_with_Redux_Videos-Stephen-/static/js/2.0da6cb70.chunk.js",
-    "static/js/2.0da6cb70.chunk.js.map": "/Modern_React_with_Redux_Videos-Stephen-/static/js/2.0da6cb70.chunk.js.map",
-    "index.html": "/Modern_React_with_Redux_Videos-Stephen-/index.html",
-    "precache-manifest.6fc8cae91aa1cf87f1196f164ecec7c9.js": "/Modern_React_with_Redux_Videos-Stephen-/precache-manifest.6fc8cae91aa1cf87f1196f164ecec7c9.js",
-    "service-worker.js": "/Modern_React_with_Redux_Videos-Stephen-/service-worker.js",
-    "static/css/main.b81adad2.chunk.css.map": "/Modern_React_with_Redux_Videos-Stephen-/static/css/main.b81adad2.chunk.css.map"
+    "main.css": "/Stephen_Modern_React_with_Redux_Videos/static/css/main.b81adad2.chunk.css",
+    "main.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/main.e66d3496.chunk.js",
+    "main.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/main.e66d3496.chunk.js.map",
+    "runtime-main.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/runtime-main.b487678d.js",
+    "runtime-main.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/runtime-main.b487678d.js.map",
+    "static/js/2.0da6cb70.chunk.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/2.0da6cb70.chunk.js",
+    "static/js/2.0da6cb70.chunk.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/2.0da6cb70.chunk.js.map",
+    "index.html": "/Stephen_Modern_React_with_Redux_Videos/index.html",
+    "precache-manifest.830a7a93370d22ef51116f21780e98f1.js": "/Stephen_Modern_React_with_Redux_Videos/precache-manifest.830a7a93370d22ef51116f21780e98f1.js",
+    "service-worker.js": "/Stephen_Modern_React_with_Redux_Videos/service-worker.js",
+    "static/css/main.b81adad2.chunk.css.map": "/Stephen_Modern_React_with_Redux_Videos/static/css/main.b81adad2.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f241c84b.js",
+    "static/js/runtime-main.b487678d.js",
     "static/js/2.0da6cb70.chunk.js",
     "static/css/main.b81adad2.chunk.css",
-    "static/js/main.9787d404.chunk.js"
+    "static/js/main.e66d3496.chunk.js"
   ]
 }
