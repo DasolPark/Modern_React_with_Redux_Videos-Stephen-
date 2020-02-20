@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Stephen_Modern_React_with_Redux_Videos/static/css/main.b81adad2.chunk.css",
-    "main.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/main.6461480a.chunk.js",
-    "main.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/main.6461480a.chunk.js.map",
-    "runtime-main.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/runtime-main.b487678d.js",
-    "runtime-main.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/runtime-main.b487678d.js.map",
-    "static/js/2.0da6cb70.chunk.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/2.0da6cb70.chunk.js",
-    "static/js/2.0da6cb70.chunk.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/2.0da6cb70.chunk.js.map",
+    "main.css": "/Stephen_Modern_React_with_Redux_Videos/static/css/main.8ad48a67.chunk.css",
+    "main.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/main.343aea56.chunk.js",
+    "main.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/main.343aea56.chunk.js.map",
+    "runtime-main.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/runtime-main.4130bf9a.js",
+    "runtime-main.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/runtime-main.4130bf9a.js.map",
+    "static/js/2.00816a6b.chunk.js": "/Stephen_Modern_React_with_Redux_Videos/static/js/2.00816a6b.chunk.js",
+    "static/js/2.00816a6b.chunk.js.map": "/Stephen_Modern_React_with_Redux_Videos/static/js/2.00816a6b.chunk.js.map",
     "index.html": "/Stephen_Modern_React_with_Redux_Videos/index.html",
-    "precache-manifest.d07bfd5228d495af13585603d7408809.js": "/Stephen_Modern_React_with_Redux_Videos/precache-manifest.d07bfd5228d495af13585603d7408809.js",
+    "precache-manifest.4c7e880cb8903f7e6d4085b88ddd6f5b.js": "/Stephen_Modern_React_with_Redux_Videos/precache-manifest.4c7e880cb8903f7e6d4085b88ddd6f5b.js",
     "service-worker.js": "/Stephen_Modern_React_with_Redux_Videos/service-worker.js",
-    "static/css/main.b81adad2.chunk.css.map": "/Stephen_Modern_React_with_Redux_Videos/static/css/main.b81adad2.chunk.css.map"
+    "static/css/main.8ad48a67.chunk.css.map": "/Stephen_Modern_React_with_Redux_Videos/static/css/main.8ad48a67.chunk.css.map",
+    "static/js/2.00816a6b.chunk.js.LICENSE.txt": "/Stephen_Modern_React_with_Redux_Videos/static/js/2.00816a6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b487678d.js",
-    "static/js/2.0da6cb70.chunk.js",
-    "static/css/main.b81adad2.chunk.css",
-    "static/js/main.6461480a.chunk.js"
+    "static/js/runtime-main.4130bf9a.js",
+    "static/js/2.00816a6b.chunk.js",
+    "static/css/main.8ad48a67.chunk.css",
+    "static/js/main.343aea56.chunk.js"
   ]
 }
