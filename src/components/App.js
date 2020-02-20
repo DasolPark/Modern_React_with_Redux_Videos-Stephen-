@@ -1,18 +1,18 @@
-import React from "react";
-import youtube from "../apis/youtube";
-import SearchBar from "./SearchBar";
-import VideoList from "./VideoList";
-import VideoDetail from "./VideoDetail";
+import React from 'react';
+import youtube from '../apis/youtube';
+import SearchBar from './SearchBar';
+import VideoList from './VideoList';
+import VideoDetail from './VideoDetail';
 
 class App extends React.Component {
   state = { videos: [], selectedVideo: null };
 
   componentDidMount() {
-    this.onTermSubmit("South Korea");
+    this.onTermSubmit('South Korea');
   }
 
   onTermSubmit = async term => {
-    const response = await youtube.get("/search", {
+    const response = await youtube.get('/search', {
       params: { q: term }
     });
     this.setState({
@@ -27,7 +27,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="ui container" style={{ marginTop: "10px" }}>
+      <div className="ui container" style={{ marginTop: '10px' }}>
         <SearchBar onFormSubmit={this.onTermSubmit} />
         <div className="ui grid">
           <div className="ui row">
